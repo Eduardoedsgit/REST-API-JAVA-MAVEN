@@ -20,6 +20,8 @@ cadastro-funcionarios/
 │   │   └── FuncionarioServiceImpl.java
 │   └── CadastroFuncionariosApplication.java
 └── src/main/resources/application.properties
+<img width="387" height="458" alt="image" src="https://github.com/user-attachments/assets/ea9da205-13cc-4e94-9d46-46f20c6d57e3" />
+
 
 SITE: https://start.spring.io
 
