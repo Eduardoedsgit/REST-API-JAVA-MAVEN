@@ -1,25 +1,4 @@
-ESTRUTURA DO PROJETO
 
-cadastro-funcionarios/
-├── src/main/java/com/funcionarios/
-│   ├── controller/
-│   │   └── FuncionarioController.java
-│   ├── dto/
-│   │   ├── FuncionarioRequest.java
-│   │   ├── FuncionarioUpdateRequest.java
-│   │   └── FuncionarioResponse.java
-│   ├── exception/
-│   │   ├── ApiExceptionHandler.java
-│   │   ├── FuncionarioNaoEncontradoException.java
-│   │   ├── FuncionarioJaExisteException.java
-│   │   └── ErroApi.java
-│   ├── model/
-│   │   └── Funcionario.java
-│   ├── service/
-│   │   ├── FuncionarioService.java
-│   │   └── FuncionarioServiceImpl.java
-│   └── CadastroFuncionariosApplication.java
-└── src/main/resources/application.properties
 <img width="387" height="458" alt="image" src="https://github.com/user-attachments/assets/ea9da205-13cc-4e94-9d46-46f20c6d57e3" />
 
 
